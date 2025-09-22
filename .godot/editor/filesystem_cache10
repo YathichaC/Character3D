@@ -1,0 +1,13 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1758555474
+Cotoon_land.FBX::PackedScene::5048168016442945688::1758554319::1758555475::1::::<><><>0<>0<>872a173dd7b05e5d2d574ee39db75cc1<>res://.godot/imported/Cotoon_land.FBX-73c8d0989803eb827e46769384268afd.scn::
+Dancing Twerk.fbx::PackedScene::5373964834906490843::1758554319::1758555478::1::::<><><>0<>0<>45fa5eae443e7abb602a9d6dc4e41a83<>res://.godot/imported/Dancing Twerk.fbx-67582329809ed990977632056bb3b7de.scn::
+Dancing Twerk.gltf::PackedScene::3201851739092002050::1758554319::1758555479::1::::<><><>0<>0<>2b6f992ed767b06e970f4cf3e85e3e5b<>res://.godot/imported/Dancing Twerk.gltf-e7bc910da20b344c1ceb4cd725195827.scn::
+Dancing Twerk.tscn::PackedScene::6825078004591994629::1758554319::0::1::::<><><>0<>0<><>::uid://cd6mubw7jmp4s::::res://asset/Cotoon_land.FBX
+icon.png::CompressedTexture2D::5748691695355955372::1758554319::1758555475::1::::<><><>0<>0<>c0a76e630e25c7717d9f83bd2ed848bc<>res://.godot/imported/icon.png-487276ed1e3a0c39cad0279d744ee560.ctex::
+icon.svg::CompressedTexture2D::462102195862146039::1758554319::1758555475::1::::<><><>0<>0<>c0dc9b4eb7111f0772c0f1a31ff93a82<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+mixamo_animation_retargeter.gd::GDScript::500053987603183142::1758554319::0::1::::<>EditorPlugin<><>0<>1<><>::
+mixamo_bone_map.tres::BoneMap::4240935064570849907::1758554319::0::1::::<><><>0<>0<><>::
+node_3d.tscn::PackedScene::5696188011407672187::1758554319::0::1::::<><><>0<>0<><>::uid://b0f27g0j0glrk::::res://asset/Dancing Twerk.fbx
+plugin.cfg::TextFile::-1::1758554319::0::1::::<><><>0<>0<><>::
+README.md::TextFile::-1::1758554319::0::1::::<><><>0<>0<><>::

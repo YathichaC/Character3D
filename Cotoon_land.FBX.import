@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cd6mubw7jmp4s"
-path="res://.godot/imported/Cotoon_land.FBX-cbe60ec9e4dd18d08d630eac11f8fdec.scn"
+path="res://.godot/imported/Cotoon_land.FBX-73c8d0989803eb827e46769384268afd.scn"
 
 [deps]
 
-source_file="res://asset/Cotoon_land.FBX"
-dest_files=["res://.godot/imported/Cotoon_land.FBX-cbe60ec9e4dd18d08d630eac11f8fdec.scn"]
+source_file="res://Cotoon_land.FBX"
+dest_files=["res://.godot/imported/Cotoon_land.FBX-73c8d0989803eb827e46769384268afd.scn"]
 
 [params]
 

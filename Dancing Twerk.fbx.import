@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://b0f27g0j0glrk"
-path="res://.godot/imported/Dancing Twerk.fbx-4b94f652cbb9fe4d3cdbff89a1719da2.scn"
+uid="uid://citgoescud14b"
+path="res://.godot/imported/Dancing Twerk.fbx-67582329809ed990977632056bb3b7de.scn"
 
 [deps]
 
-source_file="res://asset/Dancing Twerk.fbx"
-dest_files=["res://.godot/imported/Dancing Twerk.fbx-4b94f652cbb9fe4d3cdbff89a1719da2.scn"]
+source_file="res://Dancing Twerk.fbx"
+dest_files=["res://.godot/imported/Dancing Twerk.fbx-67582329809ed990977632056bb3b7de.scn"]
 
 [params]
 
@@ -32,13 +32,7 @@ animation/trimming=true
 animation/remove_immutable_tracks=true
 animation/import_rest_as_RESET=false
 import_script/path=""
-_subresources={
-"nodes": {
-"PATH:Skeleton3D": {
-"retarget/bone_map": Resource("res://addons/mixamo_animation_retargeter/mixamo_bone_map.tres")
-}
-}
-}
-fbx/importer=0
+_subresources={}
+fbx/importer=1
 fbx/allow_geometry_helper_nodes=false
 fbx/embedded_image_handling=1

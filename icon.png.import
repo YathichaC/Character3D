@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cn5yd237e43pw"
-path="res://.godot/imported/icon.png-a2c01d57a9ca31920fd24d6aa36c53c4.ctex"
+path="res://.godot/imported/icon.png-487276ed1e3a0c39cad0279d744ee560.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/mixamo_animation_retargeter/icon.png"
-dest_files=["res://.godot/imported/icon.png-a2c01d57a9ca31920fd24d6aa36c53c4.ctex"]
+source_file="res://icon.png"
+dest_files=["res://.godot/imported/icon.png-487276ed1e3a0c39cad0279d744ee560.ctex"]
 
 [params]
 
